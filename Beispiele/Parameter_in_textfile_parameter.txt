@@ -1,0 +1,5 @@
+E:\_DOKUMENTE\BAT oder CMD-Beispiele\Beispiele
+  
+! DEFAULT Parameter muss in der ersten Zeilen stehen!
+! Keine Leerzeichen vor oder hinter dem Parameterwert
+! Pfade mit Leerzeichen führen zu Problemen!

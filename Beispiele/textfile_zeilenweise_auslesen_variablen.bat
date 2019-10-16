@@ -1,0 +1,20 @@
+CREO_ADMIN_dir=U:\helmlingem\Creo3_ADMIN\data1
+CREO_App[0]=PDMLink
+CREO_App[10]=TM_320mapkey_ALL
+CREO_App[11]=GDTadvisor
+CREO_App[1]=mapkey_ALL
+CREO_App[2]=keyshot
+CREO_ADMIN_dir=U:\helmlingem\Creo3_ADMIN\data2
+CREO_App[3]=DIN_teile
+CREO_App[4]=EN_norm
+REM weiter Parameter kommen
+CREO_App[5]=Messmittel
+CREO_App[6]=Montage
+CREO_App[7]=Werkzeuge
+CREO_ADMIN_dir=U:\helmlingem\Creo3_ADMIN\data3
+CREO_App[8]=WZ_norm
+CREO_App[9]=TM_306
+CREO_CREO_params_file=params.cmd
+CREO_CREO_params_path=C:\temp_creo
+CREO_ADMIN_dir=U:\helmlingem\Creo3_ADMIN\data4
+CREO_test=!CREO_App[3]!

@@ -1,0 +1,12 @@
+#sysmon_app_info_start
+AppID: 3a42bef252904b5da933b8b41261fd85
+DFID: 
+DFTimeStamp: 20190605072637
+DateCode: M060
+MachineName: W496MF72.aptargroup.loc
+Name: Creo_Parametric
+PID: 4680
+ProcStartTime: 132041859796753415
+UserName: helmlingem
+Version: 4.0
+
