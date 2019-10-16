@@ -1,5 +1,4 @@
 // Platzieren Sie Ihre Einstellungen in dieser Datei, um Standard- und Benutzereinstellungen zu überschreiben.
 {
-    // Der Pfad zur ausführbaren Git-Datei.
-  "git.path": "E:\\Portable Apps\\GitPortable_2.13.0\\PortableGit\\git-bash.exe"
+ 
 }
